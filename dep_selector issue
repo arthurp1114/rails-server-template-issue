@@ -1,0 +1,7 @@
+dep_selector installation failed during the process of running "bundle install" after cloning the rails-server-template
+
+solution: install gecode 3.5, and must be version 3.5
+
+To download gecode 3.5, go to https://launchpad.net/ubuntu/+source/gecode/3.5.0-1 and get the gecode_3.5.0.orig.tar.gz
+
+install gecode_3.5.0.orig.tar.gz first then run "bundle install" again

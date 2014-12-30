@@ -1,0 +1,5 @@
+1. Kept on getting erros like no psych installed:
+    a. install yaml from http://pyyaml.org/wiki/LibYAML
+
+2. Kept on getting erros like "cannot load such file -- zlib"
+    a. install zlib-devel.x86_64, zlib-devel.i686, zlib.i686, zlib.x86_64, and zlib-static.x86_64 first
